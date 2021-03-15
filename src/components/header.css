@@ -1,0 +1,23 @@
+.header-color {
+    color: black;
+  }
+  
+  .header-color:hover {
+    color: rgb(44, 44, 44);
+    text-decoration: none;
+  }
+  
+  .header-bg {
+    background-color: white;
+    outline-style:solid;
+    outline-width: 1px;
+    outline-color: rgba(0, 0, 0, 0.822);
+  }
+  
+  .normal-link{
+    text-decoration: none;
+  }
+  
+  .normal-link:hover{
+    text-decoration: none;
+  }
